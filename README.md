@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Alexander! I am a Computer Science Masters Graduate with specific interestes in Mathematical Programming, Cyber security and AI, and skills in Python, Java and Agda (Just to name a few) 
+My name is Alexander! I am a Computer Science Masters Graduate with specific interestes in Mathematical Programming, Cyber security and AI, 
+My programming skills include Python, Java and Agda (Just to name a few) 
 <!--
 **araymont/araymont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
