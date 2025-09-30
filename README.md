@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Alexander! I am a Computer Science Masters Graduate with specific interestes in Mathematical Programming, Cyber security and AI!
+My name is Alexander! I am a Computer Science Masters Graduate with specific interestes in Mathematical Programming, Cyber security and Cryptography!
 
 My programming skills include Python, Java and Agda (Among many others!) 
 <!--
